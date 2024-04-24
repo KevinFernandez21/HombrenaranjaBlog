@@ -6,9 +6,3 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
-
-:root {
-    --bar-width: 60px;
-    --bar-height: 60px;
-    --hamburger-gap: 6px;
-}
